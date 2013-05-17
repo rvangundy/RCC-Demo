@@ -1,0 +1,955 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"la",
+				"layerO"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"che",
+				"checkedVar"
+			],
+			[
+				"temp",
+				"tempConfigHtml"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"redr",
+				"redrawLayers"
+			],
+			[
+				"is",
+				"isBaselayer"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"get",
+				"getLayerByName"
+			],
+			[
+				"layer",
+				"layers_object"
+			],
+			[
+				"asg",
+				"asgs_app_layers"
+			],
+			[
+				"set",
+				"setVisibility"
+			],
+			[
+				"Layer",
+				"LayerSwitcher"
+			],
+			[
+				"O",
+				"OpenLayers"
+			],
+			[
+				"as",
+				"asgs_app_layers"
+			],
+			[
+				"laye",
+				"layerO"
+			],
+			[
+				"lay",
+				"layerO"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"ia",
+				"ia_wms"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"map",
+				"map-fullscreen"
+			],
+			[
+				"diph",
+				"diph-nav"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"tempC",
+				"tempChildren"
+			],
+			[
+				"le",
+				"legendHtml"
+			],
+			[
+				"leg",
+				"Legends"
+			],
+			[
+				"lege",
+				"legend-div"
+			],
+			[
+				"spa",
+				"span12"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"e",
+				"external_panel"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"type",
+				"type-CDLA"
+			],
+			[
+				"audio",
+				"audioLink"
+			],
+			[
+				"getMo",
+				"diphGetMoteValues"
+			],
+			[
+				"project",
+				"project_settings"
+			],
+			[
+				"tax",
+				"tax_view"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"content",
+				"contentAtt"
+			],
+			[
+				"conten",
+				"contentAtt"
+			],
+			[
+				"tes",
+				"testO"
+			],
+			[
+				"viw",
+				"viewObject"
+			],
+			[
+				"ve",
+				"viewObject"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"remov",
+				"removeTHatCrap"
+			],
+			[
+				"sp",
+				"split_transcript"
+			],
+			[
+				"tran",
+				"transcript-div"
+			],
+			[
+				"mote",
+				"moteFound"
+			],
+			[
+				"tra",
+				"transcript"
+			],
+			[
+				"ta",
+				"tax_view"
+			],
+			[
+				"find",
+				"findSelectedCats"
+			],
+			[
+				"cat",
+				"catObject"
+			],
+			[
+				"ca",
+				"catObject"
+			],
+			[
+				"fil",
+				"filter-data"
+			],
+			[
+				"mo",
+				"moteObject"
+			],
+			[
+				"pro",
+				"projectID"
+			],
+			[
+				"get_m",
+				"get_post_meta"
+			],
+			[
+				"tem",
+				"tempFilter"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"tempChild",
+				"tempChildCount"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"look",
+				"lookupData"
+			],
+			[
+				"new",
+				"newFeatures"
+			],
+			[
+				"cou",
+				"countTerms"
+			],
+			[
+				"coun",
+				"countCats"
+			],
+			[
+				"acti",
+				"active-legend"
+			],
+			[
+				"act",
+				"active-legend"
+			],
+			[
+				"ac",
+				"active-legend"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"htm",
+				"htmlspecialchars_decode"
+			],
+			[
+				"diph_",
+				"diph_count"
+			],
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"entryp",
+				"entry-points"
+			],
+			[
+				"proje",
+				"projectSettings_map"
+			],
+			[
+				"bod",
+				"border-left"
+			],
+			[
+				"get_term",
+				"get_term_by"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"legen",
+				"legendName"
+			],
+			[
+				"pag",
+				"pageHeight"
+			],
+			[
+				"get_t",
+				"get_term_children"
+			],
+			[
+				"data",
+				"dataObject"
+			],
+			[
+				"da",
+				"dataObject"
+			],
+			[
+				"te",
+				"tempLegends"
+			],
+			[
+				"list",
+				"listHtml"
+			],
+			[
+				"loadL",
+				"loadLegendList"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pre",
+				"prefixUrl"
+			],
+			[
+				"fie",
+				"fieldName"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"_P",
+				"_PROJECT_ID_"
+			],
+			[
+				"exclud",
+				"exclude_string"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"av-",
+				"av-player"
+			],
+			[
+				"cur",
+				"currentTime"
+			],
+			[
+				"ti",
+				"time_codes"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"media",
+				"mediaelement"
+			],
+			[
+				"clip",
+				"clipArray"
+			],
+			[
+				"time",
+				"timecode"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"project_",
+				"project_id"
+			],
+			[
+				"uni",
+				"unique_custom_fields"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ent",
+				"entry-points"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"entr",
+				"entry-point"
+			],
+			[
+				"pr",
+				"project_settingsA"
+			],
+			[
+				"term",
+				"term_name"
+			],
+			[
+				"marker",
+				"marker_id"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"span",
+				"span12"
+			],
+			[
+				"create",
+				"create-mote"
+			],
+			[
+				"star",
+				"start-date"
+			],
+			[
+				"prje",
+				"project-details"
+			],
+			[
+				"projectO",
+				"projectObj"
+			],
+			[
+				"entry",
+				"entry-points"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 4912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 5598,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main.css",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"f",
+				"Fetch: Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jehope/Organized/2013/asgs-app/app/components/openlayers/OpenLayers.mobile.js",
+		"/Users/jehope/Organized/2013/asgs-app/component.json",
+		"/Users/jehope/Organized/2013/asgs-app/app/components/modernizr/grunt.js",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/055ce4c4-868a-4e54-99fd-5d5baf8a0172/public_html/nc-cera/www/index.html",
+		"/Users/jehope/Organized/RENCI/MSC-plugin/plugins/diph/css/jquery-ui.css",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/css/diph-style.css",
+		"/Users/jehope/Library/Application Support/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/jehope/Organized/2013/stealz/stealz-admin/2013-04-css-updates.css",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/css/ol-map.css",
+		"/Users/jehope/Organized/RENCI/diph/diph/### Feature List ###",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/js/diph-project-page.js",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/js/diph-project-admin.js",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/php/diph-project-functions.php",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/js/diph-tax-template.js",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/d5ee497c-a846-42d7-8907-5a5601948551/public_html/wp-content/themes/y2yoga-theme/functions.php",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/php/diph-project-template.php",
+		"/Users/jehope/Organized/RENCI/MSC-plugin/plugins/diph/js/diph-tax-template.js",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/055ce4c4-868a-4e54-99fd-5d5baf8a0172/public_html/nc-cera/www/js/mobile-base.js",
+		"/Users/jehope/Organized/RENCI/MSC-plugin/plugins/diph/lib/bootstrap/js/bootstrap-button-fix.js",
+		"/Users/jehope/Sites/form-test/index.html",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/048a7c9b-b00d-4956-b67b-45c2a5dfafbf/public_html/dev/wp-content/plugins/woocommerce/templates/loop-shop.php",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/048a7c9b-b00d-4956-b67b-45c2a5dfafbf/public_html/dev/wp-content/themes/mgannon/sidebar.php",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/048a7c9b-b00d-4956-b67b-45c2a5dfafbf/public_html/dev/wp-content/themes/skeleton/style.css",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/048a7c9b-b00d-4956-b67b-45c2a5dfafbf/public_html/dev/wp-content/themes/skeleton/header.php",
+		"/Users/jehope/Sites/TimelineJS-master/examples/example_json.json",
+		"/Users/jehope/Desktop/project marker layer",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/85d3a4ca-5549-4d71-a12c-0406f3c3d482/public_html/dev/wp-content/plugins/diph/json-object",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/048a7c9b-b00d-4956-b67b-45c2a5dfafbf/public_html/dev/wp-content/themes/skeleton/functions.php",
+		"/Users/jehope/Organized/current-projects/2012/mgyoga/skeleton/loop-teachers.php",
+		"/private/var/folders/wr/rqpqf8vn76qbz60xntlp293w0000gn/T/048a7c9b-b00d-4956-b67b-45c2a5dfafbf/public_html/dev/wp-content/themes/skeleton/loop.php",
+		"/Users/jehope/Sites/water.html",
+		"/Users/jehope/Library/Caches/TemporaryItems/diph-project-admin.js",
+		"/Users/jehope/Organized/RENCI/MSC-plugin/topic-cards/tags.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin-right: 1%;",
+			"0",
+			"scripts",
+			"usemin",
+			"imagemin",
+			"usemin",
+			"build",
+			"uglify",
+			"RAD",
+			"next",
+			"findSelectedCats",
+			"diph_tax_",
+			"tax",
+			"dhp_get_term_by_parent",
+			"fullscreen",
+			"views",
+			"fullscreen",
+			"save-view",
+			"fullscreen",
+			"legends",
+			"fullscreen",
+			"findSelected",
+			"All",
+			"span12",
+			"#legend",
+			"slider",
+			"markers",
+			"diph_layers",
+			"loadLayers",
+			"getMoteFromName",
+			"Google",
+			"diph_create_option_list",
+			"diph_get_type_settings",
+			"getLayerList",
+			"loadLayers",
+			"map",
+			"close",
+			".close",
+			"Layer",
+			"assignLegendListeners",
+			"();\n",
+			"view",
+			"#save-btn",
+			"buildViews",
+			"saveProject",
+			"save-btn",
+			"buildViews",
+			"loadTranscriptClip",
+			"findSelectedCats",
+			"findSelectedCats()\n",
+			"updateLayerFeatures",
+			"getHighestParentColor",
+			"countMotes",
+			"diphGetMoteValues",
+			"projectObj",
+			"getLoadedMotes",
+			"legendOptions",
+			"loadLayers",
+			"load-map",
+			"projectModal",
+			"myModal",
+			"newCustomField",
+			"myModal",
+			"console",
+			"getIconsForTerms",
+			"getHighestParentDisplay",
+			"findSelectedCats",
+			"diph_create_option_list",
+			"icon_url",
+			"background",
+			"background-image",
+			"legend",
+			"findSelectedCats",
+			"tempO",
+			"temp0",
+			"marker_project",
+			"getIconsForTerms",
+			"findSelectedCats",
+			"createMoteValueArrays",
+			"getIconsForTerms",
+			"marker_project",
+			".olImageLoadError",
+			"create-new-custom",
+			"\\",
+			"diphGetMoteValues",
+			"\\",
+			"createMarkerArray",
+			"split",
+			"').",
+			"add-layer",
+			"show_diph_project_settings_box",
+			"base-layer",
+			"#legends",
+			"Pick",
+			"lookup",
+			"getHighestParentIcon",
+			"createMoteValueArrays",
+			"diphGetMoteValues",
+			"markerObject",
+			"co",
+			"createMarkerArray",
+			"filter",
+			"loadLegen",
+			"loadTr",
+			"convertToSeconds",
+			"diphCatObject",
+			"title",
+			"diph_project",
+			"createLegend",
+			"diphGetMoteValues",
+			"diphGetMoteValues\ndiphGetMoteValues",
+			"getIconsForTerms",
+			"term-icon",
+			"createMoteValueArrays",
+			"createTaxTerms",
+			"legend",
+			"legend'",
+			"make-tax",
+			"diphGetMoteValues",
+			"createLegend",
+			"diphGetMoteValues",
+			"load-legend",
+			"map_marker",
+			"legend",
+			"map",
+			"transcript",
+			"shared",
+			"customFieldOption"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"projectModal",
+			"project_id",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.js",
+					"settings":
+					{
+						"buffer_size": 4912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2212,
+								2212
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 464.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 5598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1791,
+								1791
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 101.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/main.css",
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.924170545206,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
